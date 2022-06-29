@@ -1,2 +1,2 @@
-# The SOPT Algorithm
-Stock of Parent Tree Statruce
+# SOPT
+The SOPT algorithm, Stock of Parent Tree Statruce
