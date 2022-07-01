@@ -1,2 +1,15 @@
 # SOPT
-The SOPT algorithm, Stock of Parent Tree
+The SOPT algorithm, Stock of Parent Tree.
+```
+   [ ]                            0
+    |
+   [ ]                           0,0
+   / \
+ [ ] [ ]                     0,0,0 | 0,0,1
+      |
+     [ ]                               0,0,1,0
+    / | \
+  [ ][ ][ ]          0,0,1,0,0 | 0,0,1,0,1 | 0,0,1,0,2
+   |     |                                        
+  [ ]   [ ]   0,0,1,0,0,0 |                0,0,1,0,2,0|
+```
